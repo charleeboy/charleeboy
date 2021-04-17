@@ -1,4 +1,5 @@
-(https://www.linkedin.com/in/cdegraftjohnson/)
+![alt text](http://url/to/img.png)
+
 
 ##### Hi, I'm Charles:
 
