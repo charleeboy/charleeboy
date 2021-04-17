@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/charleeboy/charleeboy/blob/main/Charles%20Degraft-Johnson.png)
 
 
 ##### Hi, I'm Charles:
